@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/djangoProject.iml" filepath="$PROJECT_DIR$/.idea/djangoProject.iml" />
+      <module fileurl="file://$USER_HOME$/fastag-jetson/.idea/fastag-jetson.iml" filepath="$USER_HOME$/fastag-jetson/.idea/fastag-jetson.iml" />
     </modules>
   </component>
 </project>
